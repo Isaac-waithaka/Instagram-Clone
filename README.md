@@ -20,7 +20,7 @@ git clone
 ### Prerequisites
 
 1. You will need to install the following for you you to be able to run the following application in your local machine.
-* Python version 3.6
+* Python version 3.9
 * postgres database
 
 ### Installing
